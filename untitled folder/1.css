@@ -1,0 +1,16 @@
+#top{
+    height:100px;
+    width:100%;
+        position: static;
+
+}
+
+#bottom{
+    height:430px;
+    width:100%;
+}
+
+#middle{
+    height:880px;
+    width:100%;
+}

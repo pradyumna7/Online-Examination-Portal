@@ -1,0 +1,20 @@
+#login{
+width:30%;;
+height:200px;
+border:1px solid;
+}
+
+#form{
+font-size:20px;
+width:60%px;
+height:500px;
+border:1px solid;
+}
+#form input{
+height:30px;
+width:100%;
+}
+
+.float{
+float:left
+}

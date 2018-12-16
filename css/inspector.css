@@ -1,0 +1,135 @@
+
+
+
+
+.cssutilities-demo
+{
+	display:block;
+	max-height:400px;
+	overflow-y:auto;
+	width:100%;
+	margin:5px 5px;
+	padding-bottom:15px;
+}
+
+
+.cssutilities-demo button
+{
+	
+}
+.cssutilities-demo button::-moz-focus-inner 
+{ 
+	padding:0; 
+}
+.cssutilities-demo button:active
+{
+	top:1px;
+}
+.cssutilities-demo button.off
+{
+	
+	background:#fff;
+}
+.cssutilities-demo button.on
+{
+	
+	background:#d9534f;
+	color:#fff;
+}
+
+.cssutilities-demo button em
+{
+	font-style:normal;
+	font-size:0.83em;
+}
+
+
+.cssutilities-demo div
+{
+	background:#fff;
+	color:#000;
+	overflow:auto;
+	border:1px solid;
+	border-color:#888 #aaa #aaa #888;
+	height:320px;
+	font-size:0.83em;
+}
+
+
+.cssutilities-demo div p
+{
+	width:66px;
+	margin:21px;
+}
+
+
+.cssutilities-demo dl
+{
+	border:none;
+	padding:0;
+	margin:0;
+	font-size:1em;
+}
+
+.cssutilities-demo dl dt
+{
+	margin:0;
+	background:#898;
+	border-top:1px solid #888;
+	border-bottom:1px solid #888;
+	color:#fff;
+	font-weight:normal;
+	line-height:1.2;
+	padding:4px 6px;
+	margin:0;
+}
+.cssutilities-demo dl dt:first-child
+{
+	border-top:none;
+}
+
+.cssutilities-demo dl dt code
+{
+	white-space:nowrap;
+	font:normal normal normal 1em monaco,"courier new",monospace;
+}
+
+.cssutilities-demo dl dd
+{
+	margin:0;
+	padding:0;
+}
+
+.cssutilities-demo dl dd pre
+{
+	white-space:pre;
+	font:normal normal normal 12px/1.3 monaco,"courier new",monospace;
+	display:block;
+	border:none;
+	padding:0;
+	background:#fff;
+	color:#000;
+	margin:0;
+	padding:8px;
+	height:auto;
+	overflow:visible;
+}
+
+.cssutilities-demo dl dd pre del
+{
+	color:#666;
+	text-decoration:line-through;
+}
+.cssutilities-demo dl dd pre span.cssselector
+{
+	color:#006;
+}
+.cssutilities-demo dl dd pre span.cssproperty
+{
+	color:#900;
+}
+.cssutilities-demo dl dd pre span.cssvalue
+{
+	color:#060;
+}
+

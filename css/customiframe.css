@@ -1,0 +1,19 @@
+.control-custom-xs .btn-xs,
+.control-custom-sm .btn-xs,
+.control-custom-md .btn-xs,
+.control-custom-lg .btn-xs,
+.preview,
+.configuration,
+.remove,
+.editcode,
+.clonebox
+{
+	display:none;
+}
+
+ .column{
+	border:none;
+}
+ .row.column:after {
+	display:none;
+}

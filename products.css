@@ -1,0 +1,98 @@
+#picone{
+    height:500px;
+}
+
+#pictwo{
+    height:250px;
+}
+
+#secondman{
+    font-size:30px;
+}
+#third{
+    height:400px;
+}
+
+#navig{
+    height:100px;
+}
+.top-bar navbar-inverse{
+    height:10px!important;
+    }
+    
+    .explore-btn{
+        
+     background:red;
+     padding:15px;
+     border-radius:20px;
+     width:30%;
+     margin:0 auto;
+     text-align:center;
+     color:#fff;
+     text-transform:uppercase;
+    }
+    
+    
+    #lastone{
+        color:#000;
+    }
+    #lastone h4{
+        color:#FF4B2B;
+    }
+    
+    
+    
+    
+    
+@font-face{
+font-family:Abel;
+src: url(http://fonts.gstatic.com/s/abel/v6/RpUKfqNxoyNe_ka23bzQ2A.ttf);}
+
+
+html body {font-family:Abel;}
+
+
+#topo{
+    height:30px;
+}
+
+.blurred no-padding-bottom no-padding-top {
+    display: block;
+    height: 35px!important;
+}
+
+.featurette-divider{
+        margin-top: 0px!important;
+    margin-bottom: 0px!important;
+}
+
+.picone{
+        padding-top: 20px;
+}
+
+.picu{
+        padding-left: 10px;
+    padding-top: 20px;
+}
+
+.para
+{
+    padding-top: 32px;
+    font-size: 40px;
+    color: #ec3525
+}
+
+.buton{
+    margin-top: 31px;
+    height: 58px;
+    width: 142px;
+    margin-left: 82px;
+    
+}
+   #footone{
+            margin-top: 0px;
+   }
+
+   #foottwo{
+           margin-top: 100px;
+   }
